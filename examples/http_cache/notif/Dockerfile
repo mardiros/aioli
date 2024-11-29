@@ -1,4 +1,4 @@
-FROM python:3.13.0rc2-slim
+FROM python:3.14.0a1-slim
 LABEL maintainer="guillaume@gauvr.it"
 
 WORKDIR /srv/notif
